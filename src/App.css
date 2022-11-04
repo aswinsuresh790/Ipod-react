@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* ????Screen Size ######  */
+.screen-size{
+  width:280px;
+  height:250px;
+  background-color: black;
+background-image:url(https://cutewallpaper.org/21/hd-music-wallpapers/Top-20-Music-Wallpapers-4k-HD-quality-free-20-Trending-.jpg);
+background-size: cover;
+
+  margin-top: 7%;
+} 
+.gameimg{
+  width:280px;
+  height:250px;
+}  
+/* game screen size */
+
+.music-section{
+  width:280px;
+  height:250px;
+  background-color:paleturquoise;
+  
+} 
+/* music  section size  */  
+
+.music-song{
+  display:flex;
+  flex-direction: column;
+  font-size:0.9rem;
+  color:white;
+  font-weight: bold;
+
+
+}
