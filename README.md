@@ -51,6 +51,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 ### Analyzing the Bundle Size
 
+
+
+
+
+
+
+### This application mainly a intractive website 
+1.roating to  left and right the forward and backward  buttons then only select different setting
+2.Using menu button enter into the setting 
+Play button and pause button  for  playing music 
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
