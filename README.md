@@ -1,3 +1,13 @@
+This application mainly a intractive website created using react. The working of the app are following 
+1.It is a ipod application using this can do various work like play music, game change playlistof song and setting 
+2.Mainly working by using some button. The rotate forward and backward button then we can select the features. 
+3Using menu button it can enter to or access that feature
+4. Using play and pause button can play some music
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
